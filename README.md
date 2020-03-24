@@ -67,7 +67,7 @@
   - [https://zoom.us/](https://zoom.us/)
 
 * **Slack**:
-  - WADA? brak ,
+  - WADA? brak polskiej wersji językowej,
   - 5 GB na dane,
   - zamiast wysyłania maili cała komunikacja może odbywać się w jednym miejscu,
   - cała historia jest zapisane w jednym miejscu, ograniczeniem do 10tyś. wiadomości ale później można je wyeksportować,
