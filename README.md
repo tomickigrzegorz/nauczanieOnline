@@ -66,6 +66,15 @@
   - na komputery stacjonarne i urządzenia mobilne (iOS, Android)
   - [https://zoom.us/](https://zoom.us/)
 
+* **Slack**:
+  - WADA? brak ,
+  - 5 GB na dane,
+  - zamiast wysyłania maili cała komunikacja może odbywać się w jednym miejscu,
+  - cała historia jest zapisane w jednym miejscu, ograniczeniem do 10tyś. wiadomości ale później można je wyeksportować,
+  - tworzenie kanałów (np. nauczyciel może stworzyć kanał dla każdej ze swoich klas),
+  - Windows, Apple Mac OS, Google Android, Apple iOS
+  - [https://slack.com/intl/en-pl/](https://slack.com/intl/en-pl/)
+
 ## Składowanie dokumentów w "CHMURZE"
 
 * **Google Dysk**:
