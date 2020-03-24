@@ -99,6 +99,13 @@
   - łatwe udostępnianie plików czy folderów,
   - Windows, Apple Mac OS, Google Android, Apple iOS, strona www
 
+## Pomoc przy komputerze zdalnie
+
+* **TeamViewer**:
+  - aplikacja za pomocą której można pomóc uczniowi czy nauczycielowi z problemami komputerowymi zdalnie,
+  - komunikacja audio i wideo oraz czat,
+  - [https://www.teamviewer.com/pl/](https://www.teamviewer.com/pl/)
+
 ## Pomoce naukowe
 
 * [wolnelektury.pl](https://wolnelektury.pl/) - Wolne Lektury to biblioteka internetowa czynna 24 godziny na dobę, 365 dni w roku, której zasoby dostępne są całkowicie za darmo. W jej zbiorach znajduje się 5571 utworów, w tym wiele lektur szkolnych zalecanych do użytku przez Ministerstwo Edukacji Narodowej, które trafiły już do domeny publicznej...
