@@ -1,4 +1,5 @@
 # Przydatne aplikacje oraz strony do nauki online
+>Pamiętajcie ale większość poniższych aplikacji i stron jest wolnym oprogramowaniem i jest udostępniana za darmo. Jeżeli spodoba Ci się oprogramowanie, rozważ darowiznę. Często te strony posiadają taką możliwość. Darowizna pomorze w rozwoju tychże aplikacji oraz pozostaniem darmowym.
 
 ## Narzędzia do komunikacji
 
@@ -78,7 +79,7 @@
 ## Składowanie dokumentów w "CHMURZE"
 
 * **Google Dysk**:
-  - 15 GB na dane,
+  - 15 GB na dane (możliwość stworzenia wielu kont),
   - łatwe udostępnianie plików czy folderów,
   - historia plików (do 30 dni),
   - świetna integracja z google,
@@ -98,6 +99,35 @@
   - historia plików (do 30 dni),
   - łatwe udostępnianie plików czy folderów,
   - Windows, Apple Mac OS, Google Android, Apple iOS, strona www
+
+## Co w zamian?
+
+* **LibreOffice**:
+  - zastąpienie microsoft office, na samym office świat się nie kończy. Bardzo dobry zamiennik, wystarczający w zupełności na potrzeby domowe,
+  - tworzenie dokumentów, arkuszy kalkulacyjnych, prezentacji, formuł, baz danych
+  - otwiera także dokumenty z office, ale jest też możliwość zapisania dokumentów w formatach office,
+  - Windows, macOS, Linux
+  - [https://pl.libreoffice.org/](https://pl.libreoffice.org/)
+
+* **Google Dokumenty**:
+  - dokumenty, arkusze, prezentacje oraz formularze przez stronę internetową,
+  - udostępnianie dokumentów itd.
+  - wszystko przez stronę internetową potrzebne konto w google,
+  - [https://www.google.pl/intl/pl/docs/about/](https://docs.google.com/document/u/0/)
+
+* **Adobe Readera**:
+  - czytnik dokumentów pdf,
+  - niestety ciężki, poniżej kilka zamienników,
+  - [https://get.adobe.com/pl/reader/](https://get.adobe.com/pl/reader/)
+
+* **Foxit Reader**:
+  - czytnik dokumentów pdf,
+  - szybki, lekki, uruchamia się bardzo szybko w przeciwieństwie do adobe readera
+  - [https://www.foxitsoftware.com/pdf-reader/](https://www.foxitsoftware.com/pdf-reader/)
+
+* **PDF XChange Viewer**:
+  - czytnik dokumentów pdf,
+  - [https://pdf-xchange.eu/pdf-xchange-editor/index.htm](https://pdf-xchange.eu/pdf-xchange-editor/index.htm)
 
 ## Pomoc zdalna np. przy naprawie komputera
 
