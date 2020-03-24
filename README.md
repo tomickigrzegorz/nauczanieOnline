@@ -99,7 +99,7 @@
   - łatwe udostępnianie plików czy folderów,
   - Windows, Apple Mac OS, Google Android, Apple iOS, strona www
 
-## Pomoc przy komputerze zdalnie
+## Pomoc zdalna np. przy naprawie komputera
 
 * **TeamViewer**:
   - przesyłanie plików,
