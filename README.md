@@ -100,7 +100,7 @@
   - łatwe udostępnianie plików czy folderów,
   - Windows, Apple Mac OS, Google Android, Apple iOS, strona www
 
-## Co w zamian? Jak otworzyć [doc,docx,pdf]
+## Co w zamian? Jak otworzyć [doc, docx, pdf, jpg, ...]
 
 * **LibreOffice**:
   - zastąpienie microsoft office, na samym office świat się nie kończy. Bardzo dobry zamiennik, wystarczający w zupełności na potrzeby domowe,
@@ -118,16 +118,24 @@
 * **Adobe Readera**:
   - czytnik dokumentów pdf,
   - niestety ciężki, poniżej kilka zamienników,
+  - Windows, macOS
   - [https://get.adobe.com/pl/reader/](https://get.adobe.com/pl/reader/)
 
 * **Foxit Reader**:
   - czytnik dokumentów pdf,
   - szybki, lekki, uruchamia się bardzo szybko w przeciwieństwie do adobe readera
+  - Windows, macOS, Linux
   - [https://www.foxitsoftware.com/pdf-reader/](https://www.foxitsoftware.com/pdf-reader/)
 
 * **PDF XChange Viewer**:
   - czytnik dokumentów pdf,
+  - Windows
   - [https://pdf-xchange.eu/pdf-xchange-editor/index.htm](https://pdf-xchange.eu/pdf-xchange-editor/index.htm)
+
+* **GIMP**:
+  - program do obróbki zdjęć, tworzenia grafik itd.
+  - Windows, macOS, Linux
+  - [https://www.gimp.org/downloads/](https://www.gimp.org/downloads/)
 
 ## Pomoc zdalna np. przy naprawie komputera
 
