@@ -1,5 +1,5 @@
 # Przydatne aplikacje oraz strony do nauki online
->Pamiętajcie ale większość poniższych aplikacji i stron jest wolnym oprogramowaniem i jest udostępniana za darmo. Jeżeli spodoba Ci się oprogramowanie, rozważ darowiznę. Często te strony posiadają taką możliwość. Darowizna pomorze w rozwoju tychże aplikacji oraz pozostaniem darmowym.
+>Pamiętajcie ale większość poniższych aplikacji i stron jest wolnym oprogramowaniem i jest udostępniana za darmo. Jeżeli spodoba Ci się oprogramowanie, rozważ darowiznę. Często te strony posiadają taką możliwość. Darowizna pomorze w rozwoju tychże aplikacji oraz utrzymaniem statusu darmowego.
 
 ## Narzędzia do komunikacji
 
