@@ -102,9 +102,18 @@
 ## Pomoc przy komputerze zdalnie
 
 * **TeamViewer**:
-  - aplikacja za pomocą której można pomóc uczniowi czy nauczycielowi z problemami komputerowymi zdalnie,
+  - przesyłanie plików,
+  - zdalny pulpit, aplikacja za pomocą której można pomóc uczniowi czy nauczycielowi z problemami komputerowymi zdalnie,
   - komunikacja audio i wideo oraz czat,
   - [https://www.teamviewer.com/pl/](https://www.teamviewer.com/pl/)
+
+* **AnyDesk**:
+  - zdalny pulpit,
+  - zdalny restart,
+  - zarządzanie kontami, monitoruj swoje kontakty oraz połączenia dzięki wbudowanej książce adresowej i zobacz, kto jest online bez nawiązywania połączenia,
+  - przesyłanie plików,
+  - Windows, macOS, iOS, Android, Linux, FreeBSD, Raspberry Pi, Chrome OS
+  - [https://anydesk.com/pl](https://anydesk.com/pl)
 
 ## Pomoce naukowe
 
