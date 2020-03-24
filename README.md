@@ -100,7 +100,7 @@
   - łatwe udostępnianie plików czy folderów,
   - Windows, Apple Mac OS, Google Android, Apple iOS, strona www
 
-## Co w zamian?
+## Co w zamian? Jak otworzyć [doc,docx,pdf]
 
 * **LibreOffice**:
   - zastąpienie microsoft office, na samym office świat się nie kończy. Bardzo dobry zamiennik, wystarczający w zupełności na potrzeby domowe,
