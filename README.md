@@ -9,7 +9,7 @@
   - tworzenie grup,
   - czat indywidulany i grupowy,
   - możliwość udostępniania okna,
-  - zdalne sterowanie pulpitem np. nauczyciel ma możliwość sterowania komputerem ucznia zdalnie
+  - zdalne sterowanie pulpitem np. nauczyciel ma możliwość sterowania komputerem ucznia zdalnie,
   - Windows, Linux, Apple Mac OS, Google Android, Apple iOS
   - [https://www.skype.com/pl/](https://www.skype.com/pl/)
 
@@ -29,7 +29,7 @@
   - komunikacja audio,
   - komunikacja tekstowa,
   - czat indywidulany i grupowy,
-  - możliwość przesyłania plików ograniczona do typów plików,
+  - możliwość przesyłania plików,
   - Windows, Google Android, Apple iOS
   - [https://facebook.com/](https://facebook.com/)
 
@@ -56,6 +56,14 @@
   - przesyłanie: zdjęć, tekstów, wideo oraz dokumentów do 100MB,
   - Windows, Apple Mac OS, Google Android, Apple iOS
   - [https://www.whatsapp.com/?lang=pl](https://www.whatsapp.com/?lang=pl)
+
+* **Zoom**:
+  - możliwość dzielenia grupy na podgrupy (podpokoje / breakout rooms),
+  - obraz w jakości HD,
+  - wysoka jakość audio,
+  - możliwość wyświetlenia jednocześnie obrazu z nawet do 100 kamer wideo,
+  - dzielenie ekranu – możliwość wyświetlenia uczestnikom swojego ekranu,
+  - na komputery stacjonarne i urządzenia mobilne (iOS, Android)
 
 ## Składowanie dokumentów w "CHMURZE"
 
