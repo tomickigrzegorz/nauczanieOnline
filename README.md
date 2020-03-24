@@ -64,6 +64,7 @@
   - możliwość wyświetlenia jednocześnie obrazu z nawet do 100 kamer wideo,
   - dzielenie ekranu – możliwość wyświetlenia uczestnikom swojego ekranu,
   - na komputery stacjonarne i urządzenia mobilne (iOS, Android)
+  - [https://zoom.us/](https://zoom.us/)
 
 ## Składowanie dokumentów w "CHMURZE"
 
