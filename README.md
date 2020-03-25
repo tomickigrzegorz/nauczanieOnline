@@ -22,7 +22,7 @@
   - czat indywidulany i grupowy,
   - możliwość udostępniania okna,
   - maksymalna liczba użytkowników dla darmowej wersji to 300,
-  - Windows, Apple Mac OS, Google Android, Apple iOS
+  - Windows, Apple Mac OS, Google Android, Apple iOS, Linux
   - Bezpłatnie utwórz konto dla swojej szkoły, 
   - [https://products.office.com/pl-pl/microsoft-teams/group-chat-software](https://products.office.com/pl-pl/microsoft-teams/group-chat-software)
 
