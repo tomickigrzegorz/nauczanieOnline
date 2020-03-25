@@ -76,6 +76,13 @@
   - Windows, Apple Mac OS, Google Android, Apple iOS
   - [https://slack.com/intl/en-pl/](https://slack.com/intl/en-pl/)
 
+* **Trello**:
+  - tablice, listy i karty Trello umożliwiają organizację i szeregowanie projektów więcej tutaj [trello-wprowadzenie](https://medium.com/@sebastianlegenza/trello-wprowadzenie-dla-pocz%C4%85tkuj%C4%85cych-fddb9a5b035b)
+  - darmowa wersja jest niestety ograniczona [https://trello.com](https://trello.com/pricing),
+  - może przydać się nauczycielom ale również uczniom w planowaniu lekcji, 
+  - [przykładowe szablony](https://trello.com/templates/education)
+
+
 ## Składowanie dokumentów w "CHMURZE"
 
 * **Google Dysk**:
