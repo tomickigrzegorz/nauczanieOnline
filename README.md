@@ -82,7 +82,7 @@
   - może przydać się nauczycielom ale również uczniom w planowaniu lekcji, 
   - [przykładowe szablony](https://trello.com/templates/education)
 
-* **Classroom**:
+* **Google Classroom**:
   - darmowy dostęp,
   - Google Classroom sprawia, że nauczanie jest skuteczniejsze dzięki ułatwianiu obsługi projektów, zwiększaniu wydajności współpracy i zachęcaniu do komunikacji
   - dostępność przez przeglądarkę internetową,
