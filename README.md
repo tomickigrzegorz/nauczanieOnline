@@ -82,6 +82,16 @@
   - może przydać się nauczycielom ale również uczniom w planowaniu lekcji, 
   - [przykładowe szablony](https://trello.com/templates/education)
 
+* **Classroom**:
+  - Google Classroom sprawia, że nauczanie jest skuteczniejsze dzięki ułatwianiu obsługi projektów, zwiększaniu wydajności współpracy i zachęcaniu do komunikacji
+  - dostępność przez przeglądarkę internetową,
+  - [informacje o classroom](https://support.google.com/edu/classroom/answer/6020279?hl=pl)
+  - [https://classroom.google.com/](https://classroom.google.com/)
+
+* **Google Forms**:
+  - tworzenie formularzy które mogą być wykorzystane do tworzenie testów dla uczniów,
+  - dostępność przez przeglądarkę internetową,
+  - [https://docs.google.com/forms/](https://docs.google.com/forms/)
 
 ## Składowanie dokumentów w "CHMURZE"
 
