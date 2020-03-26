@@ -83,15 +83,24 @@
   - [przykładowe szablony](https://trello.com/templates/education)
 
 * **Classroom**:
+  - darmowy dostęp,
   - Google Classroom sprawia, że nauczanie jest skuteczniejsze dzięki ułatwianiu obsługi projektów, zwiększaniu wydajności współpracy i zachęcaniu do komunikacji
   - dostępność przez przeglądarkę internetową,
   - [informacje o classroom](https://support.google.com/edu/classroom/answer/6020279?hl=pl)
   - [https://classroom.google.com/](https://classroom.google.com/)
 
 * **Google Forms**:
+  - darmowy dostęp,
   - tworzenie formularzy które mogą być wykorzystane do tworzenie testów dla uczniów,
   - dostępność przez przeglądarkę internetową,
   - [https://docs.google.com/forms/](https://docs.google.com/forms/)
+
+* **Google Suite**:
+  - darmowy dostęp dla szkół i uczelni,
+  - przygotowanie lekcji, załączanie materiwałów pomocniczych w formie dokumentów, formularzy, wideo itd.
+  - czat między uczniem a nauczycielem,
+  - możliwość tworzenia i oceniania praca ucznia,
+  - cały proces jak założyć google suite jest opisany tutaj [https://support.google.com/a/answer/2856827?hl=pl](https://support.google.com/a/answer/2856827?hl=pl) oraz wersja wideo [https://youtu.be/HceJUkNHsCs](https://youtu.be/HceJUkNHsCs)
 
 ## Składowanie dokumentów w "CHMURZE"
 
