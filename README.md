@@ -169,6 +169,7 @@
   - przesyłanie plików,
   - zdalny pulpit, aplikacja za pomocą której można pomóc uczniowi czy nauczycielowi z problemami komputerowymi zdalnie,
   - komunikacja audio i wideo oraz czat,
+  - wersja do użytku domowego ograniczona, rozłączanie sesji, możliwość blokady jeżeli uznają że używasz komercyjnie,
   - [https://www.teamviewer.com/pl/](https://www.teamviewer.com/pl/)
 
 * **AnyDesk**:
